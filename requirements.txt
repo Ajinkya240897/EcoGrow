@@ -1,0 +1,10 @@
+streamlit
+pandas
+yfinance
+requests
+scikit-learn
+lightgbm
+optuna
+joblib
+catboost
+shap
